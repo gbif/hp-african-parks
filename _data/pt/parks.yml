@@ -1,0 +1,64 @@
+parks:
+  title: Explore os parques
+  description: |
+    Os parques nacionais africanos são pontos de biodiversidade, abrigando uma vasta gama de espécies em diversos ecossistemas. Esses parques são o lar de animais icônicos como elefantes, leões e rinocerontes, além de grandes manadas de herbívoros, como zebras e gnus. A avifauna é igualmente rica, com centenas de espécies, incluindo muitas endêmicas. Os parques também abrigam numerosos répteis, anfíbios e insetos, contribuindo para sua extraordinária riqueza de espécies.
+  features:
+    - title: Parque Nacional do Serengeti
+      description: "Localizado na Tanzânia, o Serengeti é famoso por sua migração anual de mais de 1,5 milhão de gnus e 250.000 zebras."
+      href: /pt/park/serengeti-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Parque Nacional Kruger
+      description: "Uma das maiores reservas de vida selvagem da África, localizada na África do Sul, conhecida por sua alta densidade de animais selvagens, incluindo os Big Five."
+      href: /pt/park/kruger-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Reserva Nacional Masai Mara
+      description: "Situada no Quênia, a Masai Mara é renomada por sua população excepcional de leões, leopardos e guepardos, e pela migração anual de zebras e gnus."
+      href: /pt/park/masai-mara-national-reserve
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Parque Nacional Etosha
+      description: "Um vasto parque nacional na Namíbia, centrado em torno da planície salina de Etosha, conhecido por sua vida selvagem, incluindo elefantes, leões e rinocerontes."
+      href: /pt/park/etosha-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Parque Nacional Virunga
+      description: "Localizado na República Democrática do Congo, o Virunga é o parque nacional mais antigo da África e lar dos gorilas das montanhas, criticamente ameaçados de extinção."
+      href: /pt/park/virunga-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Parque Nacional Hwange
+      description: "O maior parque nacional do Zimbábue, Hwange é famoso por suas grandes manadas de elefantes e sua diversa vida selvagem, incluindo mais de 100 espécies de mamíferos."
+      href: /pt/park/hwange-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Parque Nacional Chobe
+      description: "Situado em Botsuana, o Chobe é conhecido por sua grande população de elefantes e seus ecossistemas diversificados, incluindo planícies alagadas, pântanos e florestas."
+      href: /pt/park/chobe-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Parque Nacional dos Elefantes de Addo
+      description: "Um parque sul-africano dedicado à preservação dos elefantes, o Parque Nacional dos Elefantes de Addo também abriga leões, búfalos e diversas espécies de aves."
+      href: /pt/park/addo-elephant-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Parque Nacional Impenetrável de Bwindi
+      description: "Localizado em Uganda, Bwindi é um site do Patrimônio Mundial da UNESCO, conhecido por sua população de gorilas das montanhas e sua rica biodiversidade."
+      href: /pt/park/bwindi-impenetrable-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui
+
+    - title: Parque Nacional Tsavo
+      description: "Um dos maiores parques nacionais do Quênia, o Tsavo é dividido em seções Leste e Oeste e é conhecido por suas paisagens diversificadas e vida selvagem."
+      href: /pt/park/tsavo-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Você deve adicionar uma licença aqui

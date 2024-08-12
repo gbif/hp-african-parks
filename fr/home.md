@@ -1,28 +1,28 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
+title: Portefeuille du Réseau des Parcs Africains
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
+background:  "/assets/images/angolan_giraffe_hero_0.jpg"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
+navbar:
+    color: transparent
+    hasWhiteText: true
+    floating: true
 cta:
-  - text: Institutions
-    href: /institution/search
+  - text: Parks
+    href: /parks
     isPrimary: true
-  - text: Specimens
-    href: /specimen/search
-  - text: About
-    href: /about
+  - text: Species observations
+    href: /occurrence/search
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
+  - type: features
+    data: fr.parks.parks
   - type: split
     data: examples.herbariumImageExample
-  - type: features
-    data: examples.couldBeAnyName
-permalink: /
+permalink: /fr/
 ---
 
 Edit `/home.md` to change the text.

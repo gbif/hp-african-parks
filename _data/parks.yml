@@ -1,0 +1,64 @@
+parks:
+  title: Explore the parks
+  description: |
+    African national parks are biodiversity hotspots, hosting a wide range of species across diverse ecosystems. These parks are home to iconic animals like elephants, lions, and rhinos, along with vast herds of herbivores such as zebras and wildebeest. Birdlife is equally rich, with hundreds of species, including many endemics. The parks also support numerous reptiles, amphibians, and insects, contributing to their extraordinary species richness.
+  features:
+    - title: Serengeti National Park
+      description: "Located in Tanzania, Serengeti is famous for its annual migration of over 1.5 million wildebeest and 250,000 zebras."
+      href: /park/serengeti-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Kruger National Park
+      description: "One of Africa's largest game reserves, located in South Africa, known for its high density of wild animals including the Big Five."
+      href: /park/kruger-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Masai Mara National Reserve
+      description: "Situated in Kenya, Masai Mara is renowned for its exceptional population of lions, leopards, and cheetahs, and the annual migration of zebras and wildebeest."
+      href: /park/masai-mara-national-reserve
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Etosha National Park
+      description: "A vast national park in Namibia, centered around the Etosha salt pan, known for its wildlife including elephants, lions, and rhinos."
+      href: /park/etosha-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Virunga National Park
+      description: "Located in the Democratic Republic of Congo, Virunga is Africa's oldest national park and home to critically endangered mountain gorillas."
+      href: /park/virunga-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Hwange National Park
+      description: "Zimbabwe's largest national park, Hwange is famous for its large elephant herds and diverse wildlife, including over 100 species of mammals."
+      href: /park/hwange-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Chobe National Park
+      description: "Situated in Botswana, Chobe is known for its large elephant population and diverse ecosystems, including floodplains, swamps, and forests."
+      href: /park/chobe-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Addo Elephant National Park
+      description: "A South African park dedicated to preserving elephants, Addo Elephant National Park also shelters lions, buffaloes, and various bird species."
+      href: /park/addo-elephant-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Bwindi Impenetrable National Park
+      description: "Located in Uganda, Bwindi is a UNESCO World Heritage site known for its population of mountain gorillas and rich biodiversity."
+      href: /park/bwindi-impenetrable-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here
+
+    - title: Tsavo National Park
+      description: "One of the largest national parks in Kenya, Tsavo is divided into East and West sections and is known for its diverse landscapes and wildlife."
+      href: /park/tsavo-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: You should add a license here

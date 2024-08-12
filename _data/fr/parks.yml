@@ -1,0 +1,62 @@
+parks:
+  title: Explorez les parcs
+  description: |
+    Les parcs nationaux africains sont des points chauds de biodiversité, abritant une grande variété d'espèces à travers divers écosystèmes. Ces parcs sont le refuge d'animaux emblématiques tels que les éléphants, les lions et les rhinocéros, ainsi que de vastes troupeaux d'herbivores comme les zèbres et les gnous. L'avifaune est également riche, avec des centaines d'espèces, dont beaucoup sont endémiques. Les parcs soutiennent également de nombreux reptiles, amphibiens et insectes, contribuant à leur extraordinaire richesse en espèces.
+  features:
+    - title: Parc National du Serengeti
+      description: "Situé en Tanzanie, le Serengeti est célèbre pour sa migration annuelle de plus de 1,5 million de gnous et 250 000 zèbres."
+      href: /fr/park/serengeti-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Parc National Kruger
+      description: "L'une des plus grandes réserves naturelles d'Afrique, située en Afrique du Sud, connue pour sa forte densité d'animaux sauvages, y compris les Big Five."
+      href: /fr/park/kruger-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Réserve Nationale du Masai Mara
+      description: "Située au Kenya, le Masai Mara est réputée pour sa population exceptionnelle de lions, léopards et guépards, ainsi que pour la migration annuelle des zèbres et des gnous."
+      href: /fr/park/masai-mara-national-reserve
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Parc National d'Etosha
+      description: "Un vaste parc national en Namibie, centré autour du pan salé d'Etosha, connu pour sa faune, y compris les éléphants, lions et rhinocéros."
+      href: /fr/park/etosha-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Parc National des Virunga
+      description: "Situé en République Démocratique du Congo, le Virunga est le plus ancien parc national d'Afrique et abrite des gorilles de montagne en danger critique d'extinction."
+      href: /fr/park/virunga-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Parc National de Hwange
+      description: "Le plus grand parc national du Zimbabwe, Hwange est célèbre pour ses grands troupeaux d'éléphants et sa faune diversifiée, y compris plus de 100 espèces de mammifères."
+      href: /fr/park/hwange-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Parc National de Chobe
+      description: "Situé au Botswana, Chobe est connu pour sa grande population d'éléphants et ses écosystèmes diversifiés, y compris les plaines inondables, marais et forêts."
+      href: /fr/park/chobe-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Parc National des Éléphants d'Addo
+      description: "Un parc sud-africain dédié à la préservation des éléphants, le parc national des Éléphants d'Addo abrite également des lions, buffles et diverses espèces d'oiseaux."
+      href: /fr/park/addo-elephant-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Parc National Impénétrable de Bwindi
+      description: "Situé en Ouganda, Bwindi est un site du patrimoine mondial de l'UNESCO connu pour sa population de gorilles de montagne et sa riche biodiversité."
+      href: /fr/park/bwindi-impenetrable-national-park
+      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+      imageLicense: Vous devez ajouter une licence ici
+
+    - title: Parc National de Tsavo
+      description: "L'un des plus grands parcs nationaux du Kenya, Tsavo est divisé en sections Est et Ouest et est connu pour ses paysages diversifiés et sa faune."
+     
