@@ -10,7 +10,7 @@ permalink: /fr/parks
 composition:
   - type: heroImage # the block type
   - type: features
-    data: parks.parks
+    data: fr.parks.parks
 ---
 
 ## Procris quippe mentior urbes ubi
