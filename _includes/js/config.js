@@ -135,6 +135,11 @@ var siteConfig = {
           key: 'hasGeospatialIssue',
           value: 'false'
         },
+        { // only consider presence records
+          "key": "occurrenceStatus",
+          "type": "equals",
+          "value": "PRESENT"
+        },
         {
           "type": "or",
           predicates: AFRICAN_PARKS
