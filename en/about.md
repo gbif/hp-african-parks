@@ -11,15 +11,11 @@ height: 70vh
 
 ## Procris quippe mentior urbes ubi
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+African Parks is a non-profit conservation organisation that takes on responsibility for the long-term management of protected areas in partnership with governments and local communities. African Parks manages 22 protected areas in 12 countries covering over 20 million hectares in Angola, Benin, Central African Republic, Chad, the Democratic Republic of Congo, Malawi, Mozambique, the Republic of Congo, South Sudan, Rwanda, Zambia and Zimbabwe. [african parks network](https://www.africanparks.org/).
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+The organisation was founded in 2000 in response to the dramatic decline of protected areas due to poor management and lack of funding. African Parks utilises a clear business approach to conserving Africa’s wildlife and remaining wild areas, securing vast landscapes and carrying out the necessary activities needed to protect the parks and their wildlife. African Parks maintains a strong focus on economic development and poverty alleviation of surrounding communities to ensure that each park is ecologically, socially, and financially sustainable in the long-term.
+
+Our goal is to manage 30 parks by 2030, the geographic spread of protected areas and representation of different ecoregions makes this the largest and most ecologically diverse portfolio of parks under management by any one NGO on the continent.
 
 ## Quam ex te videt
 
