@@ -1,10 +1,8 @@
 ---
-lang-ref: park/serengeti
-title: Serengeti National Park
-permalink: /park/serengeti-national-park
+lang-ref: park/Odzala
+title: Odzala-Kokoua National Park
+permalink: /park/odzala-kokua-national-park
 background: /assets/images/placeholders/joel-herzog-2Nvfrm2wLQY-unsplash.jpg
-imageLicense: |
-  Photo by <a href="https://unsplash.com/@joel_herzog?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">joel herzog</a> on <a href="https://unsplash.com/photos/lion-and-lioness-standing-near-green-grass-2Nvfrm2wLQY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 height: 50vh
 layout: compose
 composition:
@@ -15,7 +13,7 @@ composition:
       klass: exampleDashboard
       title: "Metrics"
       description: |
-        Title and description is optional. On this dashboard we show metrics for the filter `gadmGid: TZA.12.7_1` (Serengeti in GADM)
+        On this dashboard we show metrics for Odzala-Kokoua National Park
       config:
         predicate:
           type: equals
