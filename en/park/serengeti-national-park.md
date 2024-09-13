@@ -1,7 +1,7 @@
 ---
 lang-ref: park/Odzala
-title: Odzala-Kokoua National Park
-permalink: /park/odzala-kokua-national-park
+title: Serengeti National Park
+permalink: /park/serengeti-national-park
 background: /assets/images/placeholders/joel-herzog-2Nvfrm2wLQY-unsplash.jpg
 height: 50vh
 layout: compose
@@ -13,7 +13,7 @@ composition:
       klass: exampleDashboard
       title: "Metrics"
       description: |
-        On this dashboard we show metrics for Odzala-Kokoua National Park
+        Title and description is optional. On this dashboard we show metrics for the filter `gadmGid: TZA.12.7_1` (Serengeti in GADM)
       config:
         predicate:
           type: equals
