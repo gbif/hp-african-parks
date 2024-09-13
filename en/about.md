@@ -2,7 +2,7 @@
 lang-ref: about
 title: About
 permalink: /about
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: African Parks Description
 background: /assets/images/placeholders/moss.jpg
 imageLicense: |
   None for this image, but it would normally go here. Markdown is allowed.
