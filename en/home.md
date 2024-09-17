@@ -2,7 +2,9 @@
 lang-ref: home
 layout: home
 title: African Parks Network Portfolio
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: African Parks is a non-profit conservation organisation that takes on direct responsibility for the rehabilitation and long-term management of protected areas in partnership with governments and local communities.
+
+
 background:  "/assets/images/angolan_giraffe_hero_0.jpg"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
