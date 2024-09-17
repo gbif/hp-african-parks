@@ -3,7 +3,7 @@ lang-ref: about
 title: about
 permalimk: /about
 description: Our Story
-background/assets/images/placeholders/moss.jpg
+background: /assets/images/placeholders/moss.jpg
 height: 70vh
 
 ---
