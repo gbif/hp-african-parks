@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Portfólio da Rede de Parques Africanos
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: A African Parks é uma organização de conservação sem fins lucrativos que assume a responsabilidade direta pela reabilitação e gestão a longo prazo das áreas protegidas em parceria com os governos e as comunidades locais.
 background:  "/assets/images/angolan_giraffe_hero_0.jpg"
 imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
 height: 90vh
