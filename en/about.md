@@ -1,5 +1,4 @@
----
-*
+-
 lang-ref: about
 title: About
 permalink: /about
