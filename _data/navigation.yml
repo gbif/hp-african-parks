@@ -6,6 +6,8 @@
   href: /parks
 - text: Observations
   href: /occurrence/search
+- text: Contact Us
+  href: /contact
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
