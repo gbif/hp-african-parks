@@ -2,7 +2,7 @@
 lang-ref: about
 title: About
 permalink: /about
-description: African Parks Description
+description: African Parks
 background: /assets/images/placeholders/moss.jpg
 height: 70vh
 
@@ -16,5 +16,5 @@ The organisation was founded in 2000 in response to the dramatic decline of prot
 
 Our goal is to manage 30 parks by 2030, the geographic spread of protected areas and representation of different ecoregions makes this the largest and most ecologically diverse portfolio of parks under management by any one NGO on the continent.
 
-##  To Learn More
+## To Learn More
 [Visit African Parks Website](https://www.africanparks.org/){: .button .is-primary}
