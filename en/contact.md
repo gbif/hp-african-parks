@@ -1,7 +1,7 @@
 
 ---
 
-```yaml
+```
 lang-ref: contact
 title: Contact Us
 permalink: /contact
