@@ -4,7 +4,7 @@ title: about
 permalimk: /about
 description: Our Story
 background/assets/images/placeholders/moss.jpg
-imageLicense: |
+imageLicense: #
 None for this image, but it would normally go here. Markdown is allowed.
 height: 70vh
 
