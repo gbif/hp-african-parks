@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Qui sommes-nous
-permalink: /about
+permalink: /pt/about
 background: /assets/images/placeholders/moss.jpg
 height: 70vh
 
@@ -16,4 +16,4 @@ L'organisation a été fondée en 2000 en réponse au déclin dramatique des zon
 Notre objectif est de gérer 30 parcs d'ici 2030. La répartition géographique des zones protégées et la représentation des différentes écorégions en font le portefeuille de parcs le plus important et le plus diversifié sur le plan écologique géré par une seule ONG sur le continent.
 
 ## Pour en savoir plus :
-[Visiter le site web d'African Park]{: .button .is-primary}
+[Visiter le site web d'African Parks](https://www.africanparks.org){: .button .is-primary}
