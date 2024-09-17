@@ -1,64 +1,130 @@
 parks:
   title: Explore the parks
   description: |
-    African national parks are biodiversity hotspots, hosting a wide range of species across diverse ecosystems. These parks are home to iconic animals like elephants, lions, and rhinos, along with vast herds of herbivores such as zebras and wildebeest. Birdlife is equally rich, with hundreds of species, including many endemics. The parks also support numerous reptiles, amphibians, and insects, contributing to their extraordinary species richness.
+    African Parks manage numerous national parks across the continent, preserving biodiversity while contributing to sustainable development and community livelihoods. These parks are home to a variety of species, including iconic animals such as elephants, lions, rhinos, and a vast array of birdlife.
   features:
-    - title: Serengeti National Park
-      description: "Located in Tanzania, Serengeti is famous for its annual migration of over 1.5 million wildebeest and 250,000 zebras."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Akagera National Park
+      description: "Akagera National Park is Central Africa’s largest protected wetland and the last remaining refuge for savannah-adapted species in Rwanda."
+      href: /park/akagera-national-park
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Kruger National Park
-      description: "One of Africa's largest game reserves, located in South Africa, known for its high density of wild animals including the Big Five."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Badingilo & Boma National Parks
+      description: "Boma and Badingilo contain the largest population of migratory antelope on Earth, as millions of white-eared kob, Mongalla gazelle, tiang, and bohor reedbuck move across the Boma Badingilo Jonglei Landscape."
+      href: /park/badingilo-boma-national-parks
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Masai Mara National Reserve
-      description: "Situated in Kenya, Masai Mara is renowned for its exceptional population of lions, leopards, and cheetahs, and the annual migration of zebras and wildebeest."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Bangweulu Wetlands
+      description: "Bangweulu means 'where the water meets the sky', a perfect description of this extraordinary protected wetland in north-eastern Zambia."
+      href: /park/bangweulu-wetlands
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Etosha National Park
-      description: "A vast national park in Namibia, centered around the Etosha salt pan, known for its wildlife including elephants, lions, and rhinos."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Bazaruto Archipelago National Park
+      description: "Spanning 1,430 km² of productive seascape and five islands off the coast of Mozambique, Bazaruto Archipelago encompasses terrestrial and marine habitats of exceptional ecological value."
+      href: /park/bazaruto-archipelago-national-park
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Virunga National Park
-      description: "Located in the Democratic Republic of Congo, Virunga is Africa's oldest national park and home to critically endangered mountain gorillas."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Chinko
+      description: "Deep in the Central African Republic (CAR) lies an unknown wildlife refuge that is once again beginning to thrive."
+      href: /park/chinko
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Hwange National Park
-      description: "Zimbabwe's largest national park, Hwange is famous for its large elephant herds and diverse wildlife, including over 100 species of mammals."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Ennedi Natural and Cultural Reserve
+      description: "A natural sandstone masterpiece and World Heritage Site, Ennedi is of significant cultural and natural value."
+      href: /park/ennedi-natural-cultural-reserve
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Chobe National Park
-      description: "Situated in Botswana, Chobe is known for its large elephant population and diverse ecosystems, including floodplains, swamps, and forests."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Garamba National Park
+      description: "Garamba, one of Africa’s oldest national parks and a World Heritage Site, is the last stronghold for the largest population of elephants and the last remaining Kordofan giraffe in the DRC."
+      href: /park/garamba-national-park
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Addo Elephant National Park
-      description: "A South African park dedicated to preserving elephants, Addo Elephant National Park also shelters lions, buffaloes, and various bird species."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Iona National Park
+      description: "Because of its remote location and arid landscape, Iona National Park is home to a range of species endemic to the ecoregion."
+      href: /park/iona-national-park
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Bwindi Impenetrable National Park
-      description: "Located in Uganda, Bwindi is a UNESCO World Heritage site known for its population of mountain gorillas and rich biodiversity."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Kafue National Park
+      description: "Kafue National Park is part of the largest transboundary conservation expanse in the world: the Kavango-Zambezi Transfrontier Conservation Area."
+      href: /park/kafue-national-park
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
 
-    - title: Tsavo National Park
-      description: "One of the largest national parks in Kenya, Tsavo is divided into East and West sections and is known for its diverse landscapes and wildlife."
-      href: /park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
+    - title: Liuwa Plain
+      description: "Liuwa Plain in western Zambia has one of the oldest conservation histories in Africa, dating back to the late 19th century."
+      href: /park/liuwa-plain
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Liwonde National Park
+      description: "Liwonde National Park has become a haven for wildlife, with successful reintroductions and translocations, making it a valuable asset for Malawi."
+      href: /park/liwonde-national-park
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Majete Wildlife Reserve
+      description: "Majete in Malawi is a success story of resurgence and restoration of wildlife populations and ecosystems."
+      href: /park/majete-wildlife-reserve
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Mangochi Forest Reserve
+      description: "Mangochi Forest Reserve is a vital ecological catchment and important dispersal area for elephants and other species."
+      href: /park/mangochi-forest-reserve
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Matusadona National Park
+      description: "Matusadona National Park, known for its water-rich landscape and variety of wildlife, is being revived through a partnership with African Parks."
+      href: /park/matusadona-national-park
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Nkhotakota Wildlife Reserve
+      description: "Nkhotakota has been recreated through one of the most significant translocation initiatives in conservation history."
+      href: /park/nkhotakota-wildlife-reserve
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Nyungwe National Park
+      description: "Nyungwe National Park, the largest tract of forest in Rwanda, is one of Africa’s vital biodiversity hotspots."
+      href: /park/nyungwe-national-park
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Odzala-Kokoua National Park
+      description: "A biological hotspot in the Congo Basin, Odzala-Kokoua is home to endangered species like western lowland gorillas and forest elephants."
+      href: /park/odzala-kokoua-national-park
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Pendjari National Park
+      description: "Pendjari is a conservation stronghold in West Africa, home to 90% of the remaining West African lion population."
+      href: /park/pendjari-national-park
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Siniaka Minia National Park
+      description: "Siniaka Minia secures vital migration corridors and range habitats for diverse species in Chad."
+      href: /park/siniaka-minia-national-park
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: W National Park
+      description: "W National Park is part of the W-Arly-Pendjari (WAP) Complex, the largest wild ecosystem in West Africa."
+      href: /park/w-national-park
+      background: "/assets/images/placeholder.jpg"
+      imageLicense: You should add a license here
+
+    - title: Zakouma National Park
+      description: "Zakouma is well positioned as the primary safe haven for Central and West African wildlife, situated between the Sahara and rainforest."
+      href: /park/zakouma-national-park
+      background: "/assets/images/placeholder.jpg"
       imageLicense: You should add a license here
