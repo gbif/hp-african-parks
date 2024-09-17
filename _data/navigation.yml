@@ -7,7 +7,7 @@
 - text: Observations
   href: /occurrence/search
 - text: Contact Us
-  url : /contact
+  href: /contact
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
