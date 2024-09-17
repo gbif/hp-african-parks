@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Qui sommes-nous
-permalink: /pt/about
+permalink: /fr/about
 background: /assets/images/placeholders/moss.jpg
 height: 70vh
 
