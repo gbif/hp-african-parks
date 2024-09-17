@@ -9,18 +9,18 @@ background: /assets/images/placeholders/moss.jpg
 ### Nous contacter
 
 #### Johannesburg, Afrique du Sud
-**Bureau:** +27 11 465 0050 
-**Fax:** +27 86 662 4992 
-**Courriel:** [info@africanparks.org](mailto:info@africanparks.org)
+ **Bureau:** +27 11 465 0050 
+ **Fax:** +27 86 662 4992 
+ **Courriel:** [info@africanparks.org](mailto:info@africanparks.org)
 
-**Pour les demandes des médias:** [media@africanparks.org](mailto:media@africanparks.org) 
-**Pour les questions relatives à la carrière:** [hradmin@africanparks.org](mailto:hradmin@africanparks.org) 
-**Pour les questions relatives à la recherche:** [research@africanparks.org](mailto:research@africanparks.org)
+ **Pour les demandes des médias:** [media@africanparks.org](mailto:media@africanparks.org) 
+ **Pour les questions relatives à la carrière:** [hradmin@africanparks.org](mailto:hradmin@africanparks.org) 
+ **Pour les questions relatives à la recherche:** [research@africanparks.org](mailto:research@africanparks.org)
 
 **Adresse:** 
-Africa House, Fairway Office Park, 
-52 Grosvenor Road, Bryanston 
-Johannesburg, Afrique du Sud, 2191
+ Africa House, Fairway Office Park, 
+ 52 Grosvenor Road, Bryanston 
+ Johannesburg, Afrique du Sud, 2191
 
 ---
 
