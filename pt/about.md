@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Sobre Nós
-permalink: /about
+permalink: /pt/about
 background: /assets/images/placeholders/moss.jpg
 height: 70vh
 
