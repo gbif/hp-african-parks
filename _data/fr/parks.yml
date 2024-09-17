@@ -1,62 +1,131 @@
 parks:
   title: Explorez les parcs
   description: |
-    Les parcs nationaux africains sont des points chauds de biodiversité, abritant une grande variété d'espèces à travers divers écosystèmes. Ces parcs sont le refuge d'animaux emblématiques tels que les éléphants, les lions et les rhinocéros, ainsi que de vastes troupeaux d'herbivores comme les zèbres et les gnous. L'avifaune est également riche, avec des centaines d'espèces, dont beaucoup sont endémiques. Les parcs soutiennent également de nombreux reptiles, amphibiens et insectes, contribuant à leur extraordinaire richesse en espèces.
+    Les parcs nationaux africains sont des points chauds de biodiversité, abritant une large gamme d'espèces à travers des écosystèmes divers. Ces parcs sont le foyer d'animaux emblématiques comme les éléphants, les lions et les rhinocéros, ainsi que d'immenses troupeaux d'herbivores tels que les zèbres et les gnous. L'avifaune y est tout aussi riche, avec des centaines d'espèces, dont de nombreux endémiques. Les parcs soutiennent également de nombreux reptiles, amphibiens et insectes, contribuant à leur richesse extraordinaire en espèces.
   features:
-    - title: Parc National du Serengeti
-      description: "Situé en Tanzanie, le Serengeti est célèbre pour sa migration annuelle de plus de 1,5 million de gnous et 250 000 zèbres."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Parc national de l'Akagera
+      description: "Le parc national de l'Akagera est la plus grande zone humide protégée d'Afrique centrale et le dernier refuge pour les espèces adaptées à la savane au Rwanda."
+      href: /park/akagera-national-park
+      background: "/assets/images/akagera.jpg"
+      imageLicense: You should add a license here
 
-    - title: Parc National Kruger
-      description: "L'une des plus grandes réserves naturelles d'Afrique, située en Afrique du Sud, connue pour sa forte densité d'animaux sauvages, y compris les Big Five."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Parcs nationaux de Badingilo et de Boma
+      description: "Les parcs de Boma et de Badingilo abritent la plus grande population d'antilopes migratrices au monde. Des millions de kob à oreilles blanches, de gazelles de Mongalla, de tiang et de cobes de Bohor traversent le paysage de Boma Badingilo Jonglei et se rendent dans le parc national de Gambella, en Éthiopie."
+      href: /park/badingilo-boma-national-parks
+      background: "/assets/images/badingilo_boma.jpg"
+      imageLicense: You should add a license here
 
-    - title: Réserve Nationale du Masai Mara
-      description: "Située au Kenya, le Masai Mara est réputée pour sa population exceptionnelle de lions, léopards et guépards, ainsi que pour la migration annuelle des zèbres et des gnous."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Zones humides de Bangweulu
+      description: "Bangweulu signifie « là où l'eau rencontre le ciel », une description parfaite de cette extraordinaire zone humide protégée du nord-est de la Zambie."
+      href: /park/bangweulu-wetlands
+      background: "/assets/images/bangweulu.jpg"
+      imageLicense: You should add a license here
 
-    - title: Parc National d'Etosha
-      description: "Un vaste parc national en Namibie, centré autour du pan salé d'Etosha, connu pour sa faune, y compris les éléphants, lions et rhinocéros."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Parc national de l'archipel de Bazaruto
+      description: "S'étendant sur 1 430 km² de paysage marin productif et cinq îles au large de la côte du Mozambique, le parc national de l'archipel de Bazaruto englobe des habitats terrestres et marins d'une valeur écologique exceptionnelle."
+      href: /park/bazaruto-archipelago-national-park
+      background: "/assets/images/bazaruto.jpg"
+      imageLicense: You should add a license here
 
-    - title: Parc National des Virunga
-      description: "Situé en République Démocratique du Congo, le Virunga est le plus ancien parc national d'Afrique et abrite des gorilles de montagne en danger critique d'extinction."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Chinko
+      description: "Au fin fond de la République centrafricaine (RCA) se trouve un refuge méconnu de la faune et de la flore qui commence à nouveau à prospérer."
+      href: /park/chinko
+      background: "/assets/images/chinko.jpg"
+      imageLicense: You should add a license here
 
-    - title: Parc National de Hwange
-      description: "Le plus grand parc national du Zimbabwe, Hwange est célèbre pour ses grands troupeaux d'éléphants et sa faune diversifiée, y compris plus de 100 espèces de mammifères."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Réserve naturelle et culturelle d'Ennedi
+      description: "Chef-d'œuvre naturel de grès et site du patrimoine mondial, l'Ennedi a une valeur culturelle et naturelle importante."
+      href: /park/ennedi-natural-cultural-reserve
+      background: "/assets/images/ennedi.jpg"
+      imageLicense: You should add a license here
 
-    - title: Parc National de Chobe
-      description: "Situé au Botswana, Chobe est connu pour sa grande population d'éléphants et ses écosystèmes diversifiés, y compris les plaines inondables, marais et forêts."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Parc national de la Garamba
+      description: "La Garamba, l'un des plus anciens parcs nationaux d'Afrique et un site du patrimoine mondial, est le dernier bastion de la plus grande population d'éléphants et de la dernière girafe du Kordofan en RDC."
+      href: /park/garamba-national-park
+      background: "/assets/images/garamba.jpg"
+      imageLicense: You should add a license here
 
-    - title: Parc National des Éléphants d'Addo
-      description: "Un parc sud-africain dédié à la préservation des éléphants, le parc national des Éléphants d'Addo abrite également des lions, buffles et diverses espèces d'oiseaux."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Parc national de Iona
+      description: "En raison de son éloignement et malgré son paysage aride, le parc national d'Iona abrite une série d'espèces animales, d'oiseaux et de plantes endémiques à cette écorégion."
+      href: /park/iona-national-park
+      background: "/assets/images/iona.jpg"
+      imageLicense: You should add a license here
 
-    - title: Parc National Impénétrable de Bwindi
-      description: "Situé en Ouganda, Bwindi est un site du patrimoine mondial de l'UNESCO connu pour sa population de gorilles de montagne et sa riche biodiversité."
-      href: /fr/park/serengeti-national-park
-      background: "/assets/images/angolan_giraffe_hero_0.jpg"
-      imageLicense: Vous devez ajouter une licence ici
+    - title: Parc national de Kafue
+      description: "Le parc national de Kafue fait partie de la plus grande étendue de conservation transfrontalière au monde : la zone de conservation transfrontalière de Kavango-Zambezi."
+      href: /park/kafue-national-park
+      background: "/assets/images/kafue.jpg"
+      imageLicense: You should add a license here
 
-    - title: Parc National de Tsavo
-      description: "L'un des plus grands parcs nationaux du Kenya, Tsavo est divisé en sections Est et Ouest et est connu pour ses paysages diversifiés et sa faune."
-     
+    - title: Plaine de Liuwa
+      description: "La plaine de Liuwa, dans l'ouest de la Zambie, possède l'une des plus anciennes histoires de conservation en Afrique. Elle remonte à la fin du XIXe siècle, lorsque le roi de Barotseland a désigné son peuple comme gardien de la réserve."
+      href: /park/liuwa-plain
+      background: "/assets/images/liuwa.jpg"
+      imageLicense: You should add a license here
+
+    - title: Parc national de Liwonde
+      description: "Le parc national de Liwonde, grâce à d'incroyables réintroductions et translocations d'animaux sauvages, est devenu un havre de paix pour la faune et un atout précieux pour le Malawi et sa population."
+      href: /park/liwonde-national-park
+      background: "/assets/images/liwonde.jpg"
+      imageLicense: You should add a license here
+
+    - title: Majete
+      description: "Majete est une réserve de faune sauvage située dans le sud-ouest du Malawi, qui raconte une histoire inspirante de résurgence et de restauration."
+      href: /park/majete
+      background: "/assets/images/majete.jpg"
+      imageLicense: You should add a license here
+
+    - title: Réserve forestière de Mangochi
+      description: "La réserve forestière de Mangochi est un bassin écologique vital et une zone de dispersion importante pour les éléphants et d'autres espèces."
+      href: /park/mangochi-forest-reserve
+      background: "/assets/images/mangochi.jpg"
+      imageLicense: You should add a license here
+
+    - title: Parc national de Matusadona
+      description: "Le parc national de Matusadona, connu pour ses paysages riches en eau et la variété de sa faune, est en train de renaître dans le cadre du premier partenariat de gestion entre African Parks et le Zimbabwe."
+      href: /park/matusadona-national-park
+      background: "/assets/images/matusadona.jpg"
+      imageLicense: You should add a license here
+
+    - title: Nkhotakota
+      description: "Nkhotakota est un lieu de diversité préservé qui a été recréé grâce à l'une des initiatives de transfert les plus importantes de l'histoire de la conservation."
+      href: /park/nkhotakota
+      background: "/assets/images/nkhotakota.jpg"
+      imageLicense: You should add a license here
+
+    - title: Parc national de Nyungwe
+      description: "Le parc national de Nyungwe, la plus grande étendue de forêt du Rwanda, est l'un des points chauds de la biodiversité en Afrique."
+      href: /park/nyungwe-national-park
+      background: "/assets/images/nyungwe.jpg"
+      imageLicense: You should add a license here
+
+    - title: Odzala-Kokoua
+      description: "Un point chaud biologique au cœur de la deuxième plus grande forêt tropicale humide du monde, abritant des gorilles des plaines de l'Ouest en danger critique d'extinction, des éléphants de forêt insaisissables et plus de 440 espèces d'oiseaux."
+      href: /park/odzala-kokoua
+      background: "/assets/images/odzala.jpg"
+      imageLicense: You should add a license here
+
+    - title: Pendjari
+      description: "La Pendjari est un bastion de la conservation en Afrique de l'Ouest, qui fait partie d'une triade de parcs nationaux et de réserves d'une importance cruciale où subsistent 90 % de la population de lions d'Afrique de l'Ouest."
+      href: /park/pendjari
+      background: "/assets/images/pendjari.jpg"
+      imageLicense: You should add a license here
+
+    - title: Parc national de Siniaka Minia
+      description: "Une zone protégée cruciale pour sécuriser les corridors de migration vitaux et les habitats de l'aire de répartition de diverses espèces."
+      href: /park/siniaka-minia-national-park
+      background: "/assets/images/siniaka_minia.jpg"
+      imageLicense: You should add a license here
+
+    - title: Parc national du W
+      description: "Le parc national du W fait partie du complexe W-Arly-Pendjari (WAP), un paysage transfrontalier d'importance mondiale représentant le plus grand écosystème sauvage intact d'Afrique de l'Ouest."
+      href: /park/w-national-park
+      background: "/assets/images/w.jpg"
+      imageLicense: You should add a license here
+
+    - title: Parc national de Zakouma
+      description: "Situé juste au sud du désert du Sahara et au-dessus des régions fertiles de la forêt tropicale, le grand écosystème de Zakouma est bien placé pour être le principal refuge de la faune sauvage d'Afrique centrale et de l'Ouest."
+      href: /park/zakouma-national-park
+      background: "/assets/images/zakouma.jpg"
+      imageLicense: You should add a license here
+
