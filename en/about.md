@@ -1,3 +1,5 @@
+---
+*
 lang-ref: about
 title: About
 permalink: /about
@@ -64,4 +66,3 @@ dependent artisque audacem habuissem, et est rebus, sed?
 [Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
 Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
 tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
-
