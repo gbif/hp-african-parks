@@ -1,7 +1,49 @@
 - text: Sobre
   href: /pt/about
 - text: Parques
-  href: /pt/parks
+  menu: # Dropdown menu (one level deep only)
+  - text: Akagera, Rwanda
+    href: #akagera
+  - text: Badingilo & Boma, South Sudan
+    href: #badingilo-boma
+  - text: Bangweulu, Zambia
+    href: #bangweulu
+  - text: Bazaruto, Mozambique
+    href: #bazaruto
+  - text: Chinko, CAR
+    href: #chinko
+  - text: Ennedi, Chad
+    href: #ennedi
+  - text: Garamba, DRC
+    href: #garamba
+  - text: Iona, Angola
+    href: #iona
+  - text: Kafue, Zambia
+    href: #kafue
+  - text: Liuwa Plain, Zambia
+    href: #liuwwa-plain
+  - text: Liwonde, Malawi
+    href: #liwonde
+  - text: Majete, Malawi
+    href: #majete
+  - text: Mangochi, Malawi
+    href: #mangochi
+  - text: Matusadona, Zimbabwe
+    href: #matusadona
+  - text: Nkhotakota, Malawi
+    href: #nkhotakota
+  - text: Nyungwe, Rwanda
+    href: #nyungwe
+  - text: Odzala-Kokoua, Congo
+    href: #odzala-kokoua
+  - text: Pendjari, Benin
+    href: #pendjari
+  - text: Siniaka Minia, Chad
+    href: #siniaka-minia
+  - text: W, Benin
+    href: #w
+  - text: Zakouma, Chad
+    href: #zakouma
 - text: Observações
   href: /pt/occurrence/search
 - text: Notícias
