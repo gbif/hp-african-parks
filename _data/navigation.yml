@@ -1,4 +1,4 @@
-# Links listed below will be included in your site's navbar (navigation at the top)
+n/# Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
   href: /about
@@ -7,7 +7,7 @@
 - text: Observations
   href: /occurrence/search
 - text: Contact Us
-  href: /contact
+  href: /en/contact
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
