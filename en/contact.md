@@ -1,7 +1,7 @@
 ---
 lang-ref: contact
 title: Contact Us
-permalink: /contact
+permalink: /en/contact
 background: /assets/images/placeholders/moss.jpg
 ---
 
