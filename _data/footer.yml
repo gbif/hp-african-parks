@@ -2,25 +2,24 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-columns:
-  - name: Partners
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+# - name: Parks
+  #  links:
+    #- text: Name of project partner 1
+   #   href: http://example.com
+   # - text: Name of project partner 2
+    #  href: http://example.com
 
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+ # - name: Code
+  #  description: | # Can be Markdown
+  #    This project is open source. See `_data/footer.yml` to customize the footer.
   
-  - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+  - name: Contact Us
+    description:  # Can be Markdown
+      * **Johannesburg**, South Africa
+      * **Office:** +27 11 465 0050 
+      * **Email:** emailinfo@africanparks.org
     connectIcons: true
+
 
   # EXAMPLE
   #- name: Group name
