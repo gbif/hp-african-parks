@@ -1,44 +1,45 @@
-contact:
-  title: Contactar-nos
-  offices:
-    - location: Joanesburgo, África do Sul
-      details:
-        - type: Escritório
-          contact: +27 11 465 0050
-        - type: Fax
-          contact: +27 86 662 4992
-        - type: Correio eletrónico
-          contact: info@africanparks.org
-        - type: Para questões relacionadas com os media
-          contact: media@africanparks.org
-        - type: Para questões relacionadas com a carreira
-          contact: hradmin@africanparks.org
-        - type: Para questões de investigação
-          contact: research@africanparks.org
-      address: |
-        Africa House, Fairway Office Park,
-        52 Grosvenor Road, Bryanston
-        Johannesburg, South Africa, 2191
+---
+lang-ref: contacto
+título: Contactar-nos
+permalink: /pt/contacto
+fundo: /assets/images/placeholders/moss.jpg
+---
 
-    - location: Amesterdão, Países Baixos
-      details:
-        - type: Escritório
-          contact: +31 343 565019
-        - type: Correio eletrónico
-          contact: netherlands@africanparks.org
-      address: |
-        P.O. Box 313,
-        3940 AH Doorn,
-        The Netherlands
+### Contacte-nos
 
-    - location: Estados Unidos da América
-      details:
-        - type: Escritório
-          contact: +1 646 568 1276
-        - type: Correio eletrónico
-          contact: info@africanparks.org
-      address: |
-        Africa Parks Foundation of America
-        2020 Pennsylvania Avenue, NW #254
-        Washington, DC 20006
+#### Joanesburgo, África do Sul
+ **Escritório:** +27 11 465 0050 
+ **Fax:** +27 86 662 4992 
+ **Email:** [info@africanparks.org](mailto:info@africanparks.org)
+
+**Para questões relacionadas com os media:** [media@africanparks.org](mailto:media@africanparks.org) 
+**Para questões de carreira:** [hradmin@africanparks.org](mailto:hradmin@africanparks.org) 
+**Para questões de investigação:** [research@africanparks.org](mailto:research@africanparks.org)
+
+**Endereço:** 
+ Africa House, Fairway Office Park, 
+ 52 Grosvenor Road, Bryanston 
+ Joanesburgo, África do Sul, 2191
+
+---
+
+#### Amesterdão, Países Baixos
+ **Escritório:** +31 343 565019 
+ **Email:** [netherlands@africanparks.org](mailto:netherlands@africanparks.org)
+
+**Endereço:** 
+ Caixa postal 313, 
+ 3940 AH Doorn, 
+ Países Baixos
+
+---
+
+#### Estados Unidos
+ **Escritório:** +1 646 568 1276 
+ **Email:** [info@africanparks.org](mailto:info@africanparks.org)
+
+**Endereço:** 
+ Fundação dos Parques de África da América 
+ 2020 Pennsylvania Avenue, NW #254 
+ Washington, DC 20006
 
