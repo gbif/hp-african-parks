@@ -1,55 +1,81 @@
-# Footer content is organized in columns.
-# You can also add a small print license statement at the bottom.
-
 columns:
-  - name: Contact Us
+  - name: Johannesburg, South Africa
     description: |
-      **Johannesburg, South Africa**
-      * Office: +27 11 465 0050
-      * Fax: +27 86 662 4992
-      * Email: info@africanparks.org
-      * Media Queries: media@africanparks.org
-      * Careers: hradmin@africanparks.org
-      * Research Queries: research@africanparks.org
-      * Address: Africa House, Fairway Office Park, 52 Grosvenor Road, Bryanston, Johannesburg, South Africa, 2191
+      **Office:** +27 11 465 0050  
+      **Fax:** +27 86 662 4992  
+      **Email:** [info@africanparks.org](mailto:info@africanparks.org)  
+      **For media queries:** [media@africanparks.org](mailto:media@africanparks.org)  
+      **For career queries:** [hradmin@africanparks.org](mailto:hradmin@africanparks.org)  
+      **For research queries:** [research@africanparks.org](mailto:research@africanparks.org)  
+      **Address:**  
+      Africa House, Fairway Office Park,  
+      52 Grosvenor Road, Bryanston  
+      Johannesburg, South Africa, 2191
 
-      **Amsterdam, The Netherlands**
-      * Office: +31 343 565019
-      * Email: netherlands@africanparks.org
-      * Address: P.O. Box 313, 3940 AH Doorn, The Netherlands
+  - name: Amsterdam, The Netherlands
+    description: |
+      **Office:** +31 343 565019  
+      **Email:** [netherlands@africanparks.org](mailto:netherlands@africanparks.org)  
+      **Address:**  
+      P.O. Box 313,  
+      3940 AH Doorn,  
+      The Netherlands
 
-      **United States**
-      * Office: +1 646 568 1276
-      * Email: info@africanparks.org
-      * Address: Africa Parks Foundation of America, 2020 Pennsylvania Avenue, NW #254, Washington, DC 20006
+  - name: United States
+    description: |
+      **Office:** +1 646 568 1276  
+      **Email:** [info@africanparks.org](mailto:info@africanparks.org)  
+      **Address:**  
+      Africa Parks Foundation of America  
+      2020 Pennsylvania Avenue, NW #254  
+      Washington, DC 20006
 
   - name: Parks
-    description: |
-      * [Akagera, Rwanda](http://example.com)
-      * [Badingilo & Boma, South Sudan](http://example.com)
-      * [Bangweulu, Zambia](http://example.com)
-      * [Bazaruto, Mozambique](http://example.com)
-      * [Chinko, CAR](http://example.com)
-      * [Ennedi, Chad](http://example.com)
-      * [Garamba, DRC](http://example.com)
-      * [Iona, Angola](http://example.com)
-      * [Kafue, Zambia](http://example.com)
-      * [Liuwa Plain, Zambia](http://example.com)
-      * [Liwonde, Malawi](http://example.com)
-      * [Majete, Malawi](http://example.com)
-      * [Mangochi, Malawi](http://example.com)
-      * [Matusadona, Zimbabwe](http://example.com)
-      * [Nkhotakota, Malawi](http://example.com)
-      * [Nyungwe, Rwanda](http://example.com)
-      * [Odzala-Kokoua, Congo](http://example.com)
-      * [Pendjari, Benin](http://example.com)
-      * [Siniaka Minia, Chad](http://example.com)
-      * [W, Benin](http://example.com)
-      * [Zakouma, Chad](http://example.com)
+    links:
+    - text: Akagera, Rwanda
+      href: #akagera
+    - text: Badingilo & Boma, South Sudan
+      href: #badingilo-boma
+    - text: Bangweulu, Zambia
+      href: #bangweulu
+    - text: Bazaruto, Mozambique
+      href: #bazaruto
+    - text: Chinko, CAR
+      href: #chinko
+    - text: Ennedi, Chad
+      href: #ennedi
+    - text: Garamba, DRC
+      href: #garamba
+    - text: Iona, Angola
+      href: #iona
+    - text: Kafue, Zambia
+      href: #kafue
+    - text: Liuwa Plain, Zambia
+      href: #liuwwa-plain
+    - text: Liwonde, Malawi
+      href: #liwonde
+    - text: Majete, Malawi
+      href: #majete
+    - text: Mangochi, Malawi
+      href: #mangochi
+    - text: Matusadona, Zimbabwe
+      href: #matusadona
+    - text: Nkhotakota, Malawi
+      href: #nkhotakota
+    - text: Nyungwe, Rwanda
+      href: #nyungwe
+    - text: Odzala-Kokoua, Congo
+      href: #odzala-kokoua
+    - text: Pendjari, Benin
+      href: #pendjari
+    - text: Siniaka Minia, Chad
+      href: #siniaka-minia
+    - text: W, Benin
+      href: #w
+    - text: Zakouma, Chad
+      href: #zakouma
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
-# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
-# Will be postfixed by "Powered by GBIF"
-# (Disabled by default, remove the '#' lines on the following two lines to enable.)
-# license: >
-#   Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+license: >
+  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
