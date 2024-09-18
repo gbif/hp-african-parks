@@ -1,8 +1,8 @@
 ---
-lang-ref: contacto
-título: Contactar-nos
+lang-ref: contact
+title: Contactar-nos
 permalink: /pt/contact
-fundo: /assets/images/placeholders/moss.jpg
+background: /assets/images/placeholders/moss.jpg
 ---
   
 ### Contacte-nos
@@ -12,9 +12,15 @@ fundo: /assets/images/placeholders/moss.jpg
  **Fax:** +27 86 662 4992 
  **Email:** [info@africanparks.org](mailto:info@africanparks.org)
 
-**Para questões relacionadas com os media:** [media@africanparks.org](mailto:media@africanparks.org) 
-**Para questões de carreira:** [hradmin@africanparks.org](mailto:hradmin@africanparks.org) 
-**Para questões de investigação:** [research@africanparks.org](mailto:research@africanparks.org)
+**Para questões relacionadas com os media:** 
+[media@africanparks.org](mailto:media@africanparks.org) 
+
+**Para questões de carreira:** 
+[hradmin@africanparks.org](mailto:hradmin@africanparks.org) 
+
+**Para questões de investigação:**
+[research@africanparks.org](mailto:research@africanparks.org)
+
 
 **Endereço:** 
  Africa House, Fairway Office Park, 
