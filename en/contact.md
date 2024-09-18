@@ -5,8 +5,6 @@ permalink: /en/contact
 background: /assets/images/placeholders/moss.jpg
 ---
 
-### Contact Us
-
 #### Johannesburg, South Africa
 **Office:** +27 11 465 0050  
 **Fax:** +27 86 662 4992  
