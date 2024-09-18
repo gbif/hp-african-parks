@@ -19,7 +19,7 @@ columns:
   - name: Parks
     links:
     - text: Akagera, Rwanda
-      href: #akagera
+      href: en/park/akagera-national-park
     - text: Badingilo & Boma, South Sudan
       href: #badingilo-boma
     - text: Bangweulu, Zambia
