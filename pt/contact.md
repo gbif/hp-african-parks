@@ -1,7 +1,7 @@
 ---
 lang-ref: contacto
 título: Contactar-nos
-permalink: /pt/contacto
+permalink: /pt/contact
 fundo: /assets/images/placeholders/moss.jpg
 ---
   
