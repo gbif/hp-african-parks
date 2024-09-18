@@ -1,11 +1,9 @@
 ---
 lang-ref: contact
-title: Contact Us
+title: Nous contacter
 permalink: /fr/contact
 background: /assets/images/placeholders/moss.jpg
 ---
-
-### Nous contacter
 
 #### Johannesburg, Afrique du Sud  
 **Bureau:** +27 11 465 0050  
