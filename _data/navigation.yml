@@ -5,7 +5,7 @@
 - text: Parks
   menu: # Dropdown menu (one level deep only)
   - text: Akagera, Rwanda
-    href: en/park/akagera-national-park
+    href: /park/akagera-national-park
   - text: Badingilo & Boma, South Sudan
     href: #badingilo-boma
   - text: Bangweulu, Zambia
