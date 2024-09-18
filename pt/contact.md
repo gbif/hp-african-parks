@@ -1,11 +1,10 @@
 ---
 lang-ref: contact
-title: Contactar-nos
+title: Contactar-Nos
 permalink: /pt/contact
 background: /assets/images/placeholders/moss.jpg
 ---
 
-### Contacte-nos
 
 #### Joanesburgo, África do Sul  
 **Escritório:** +27 11 465 0050  
