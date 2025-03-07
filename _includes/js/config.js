@@ -142,26 +142,41 @@ var siteConfig = {
         },
         {
           "type": "or",
-          // take first 3 entries from AFRICAN_PARKS array
-          predicates: AFRICAN_PARKS.slice(0,100)
-          // "predicates": [ // simplified example
-          //   {
-          //     "type": "within",
-          //     "key": "geometry",
-          //     "value": "POLYGON((28.12637 6.62613,28.82263 10.22552,25.69977 8.98956,28.12637 6.62613))"
-          //   },
-          //   {
-          //     "type": "within",
-          //     "key": "geometry",
-          //     "value": "POLYGON((11.00483 13.12653,9.92301 9.63678,13.74898 9.93066,11.00483 13.12653))"
-          //   }
-          // ]
+          predicates: AFRICAN_PARKS
         }
       ]
     },
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
-  }
+  },
+  maps: {
+    locale: 'en', // what language should be used for GBIF base maps? See https://tile.gbif.org/ui/ for available languages in basemaps
+    defaultProjection: 'MERCATOR', // what is the default projection
+    defaultMapStyle: 'GEOJSON', // what is the default style
+    // what options are avialable for which projections. Default styles are included, but you can also add your own if you are a carthography and style json expert. If not you probably need help.
+    mapStyles: {
+      MERCATOR: ['GEOJSON', 'NATURAL', 'BRIGHT'],
+    },
+    // you can optionally add your own map styles or overwrite existing ones
+    addMapStyles: function ({ mapStyleServer, language, pixelRatio, apiKeys, mapComponents }) {
+      return {
+        GEOJSON: { // the name of your style
+          component: mapComponents.OpenlayersMap, // what map component to use OpenlayersMap | OpenlayersMapbox
+          labelKey: 'Park outlines', // the label in the select. Use a translation key
+          mapConfig: {
+            basemapStyle: '/assets/maps/map.json',
+            projection: 'EPSG_3857'// one of 4326 | 3031 | 3857 | 3575
+          }
+        }
+      }
+    },
+    // rewire style names to show a different style
+    styleLookup: {
+      MERCATOR: {
+        GEOJSON: 'GEOJSON'
+      }
+    }
+  },
 };
 
 // example of a language specific route overwrite
