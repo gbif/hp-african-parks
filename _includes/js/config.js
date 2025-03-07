@@ -129,6 +129,14 @@ var siteConfig = {
     rootPredicate: {
       type: 'and',
       predicates: [
+        // in hope that it will make queries faster
+        {
+          "type": "in",
+          "key": "CONTINENT",
+          "values": [
+            "AFRICA"
+          ]
+        },
         // remove records with known coordinate issues
         {
           type: 'equals',
