@@ -132,7 +132,7 @@ var siteConfig = {
         // in hope that it will make queries faster
         {
           "type": "in",
-          "key": "CONTINENT",
+          "key": "continent",
           "values": [
             "AFRICA"
           ]
